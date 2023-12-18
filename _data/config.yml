@@ -2,8 +2,8 @@
 # Map starting location and zoom level
 ##########################################################################
 map:
-  startLat: 53.806529
-  startLng: -1.555291
+  startLat: 51.297586
+  startLng: 1.069037
   startZoom: 16
 ##########################################################################
 # Filter definitions
