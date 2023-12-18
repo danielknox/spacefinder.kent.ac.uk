@@ -61,6 +61,8 @@ filters:
         label: "Library"
       - key: "outdoorseatingarea"
         label: "Outdoor Seating Area"
+      - key: "studyhub"
+        label: "Study Hub"
   - key: "work"
     label: "I want to work"
     message: "Showing spaces where you can work: "

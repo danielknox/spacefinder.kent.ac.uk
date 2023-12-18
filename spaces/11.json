@@ -1,87 +1,83 @@
 {
     "facilities": [
-        "food_drink",
         "daylight",
         "free_wifi",
         "laptops_allowed",
+        "sockets",
+        "computers",
         "signal",
-        "outdoor_seating",
+        "toilets",
         "refreshments",
         "break",
         "bike_racks",
-        "gender_neutral_toilets",
         "wheelchair_accessible"
     ],
     "atmosphere": [
         "relaxed",
+        "modern",
         "social",
         "friendly"
     ],
-    "access": "Anyone (public)",
+    "access": "All Students (24/7 Residents)",
     "disabled_access": true,
     "opening_hours": {
         "monday": {
             "open": true,
-            "from": "8:00",
-            "to": "15:00"
+            "from": "6:00",
+            "to": "23:59"
         },
         "tuesday": {
             "open": true,
-            "from": "8:00",
-            "to": "15:00"
+            "from": "6:00",
+            "to": "23:59"
         },
         "wednesday": {
             "open": true,
-            "from": "8:00",
-            "to": "15:00"
+            "from": "6:00",
+            "to": "23:59"
         },
         "thursday": {
             "open": true,
-            "from": "8:00",
-            "to": "15:00"
+            "from": "6:00",
+            "to": "23:59"
         },
         "friday": {
             "open": true,
-            "from": "8:00",
-            "to": "15:00"
+            "from": "6:00",
+            "to": "23:59"
         },
         "saturday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "6:00",
+            "to": "23:59"
         },
         "sunday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "6:00",
+            "to": "23:59"
         }
     },
-    "slug": "hugo-the-camionnette-cafe",
-    "floor": "",
-    "restriction": "",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=18475",
-    "imagealt": "Exterior photograph of Hugo, the Camionnette Café - a converted Citroën H Van - with Clothworker's Building Central in the backgournd",
-    "url": "https://gfal.leeds.ac.uk/where-to-eat/cafes/hugo/",
-    "campusmap_ref": "",
+    "slug": "turing-study-hub",
+    "floor": "First Floor",
+    "restriction": "24/7 for Residents only",
+    "imagealt": "Interior photograph of the study hub",
     "work": [
+        "close",
         "friends",
         "group"
     ],
-    "twitter_screen_name": "GreatFoodLeeds",
-    "space_type": "Café",
-    "building": "University precinct",
-    "address": "University of Leeds, LS2 9JT",
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.5551006,53.8069784]}",
-    "facebook_url": "https://www.facebook.com/greatfoodleeds",
-    "title": "Hugo, the Camionnette Café",
+    "space_type": "studyhub",
+    "building": "Turing",
+    "address": "University of Kent, CT2 7NU",
+    "location": "{\"type\":\"Point\",\"coordinates\":[1.063186,51.294112}",
+    "title": "Study Hub in Turing",
     "tags": [],
-    "noise": "Animated discussion",
+    "noise": "backgroundchatter",
     "phone_number": "",
-    "restricted": false,
+    "restricted": "",
     "id": 11,
-    "image": "/assets/photos/Hugo-Camionette-Cafe1.jpg",
-    "description": "Hugo, the Camionnette Café, is one of the more unique members of the Great Food at Leeds team and sells a range of hot drinks, pastries and brownies.",
+    "image": "/assets/photos/Edit-Room.jpg",
+    "description": "Situated on the first floor",
     "published": true,
-    "url_text": "Visit the Hugo, the Camionnette Café web site",
     "phone_text": ""
 }

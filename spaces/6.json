@@ -1,96 +1,80 @@
 {
     "facilities": [
-        "food_drink",
         "daylight",
-        "views",
         "free_wifi",
         "laptops_allowed",
+        "sockets",
+        "computers",
         "signal",
         "toilets",
         "refreshments",
         "break",
-        "sockets",
-        "wheelchair_accessible",
         "bike_racks",
-        "gender_neutral_toilets",
-        "baby_changing",
-        "accessible_toilets"
+        "wheelchair_accessible"
     ],
     "atmosphere": [
-        "historic",
-        "inspiring",
-        "friendly",
+        "relaxed",
+        "modern",
         "social",
-        "relaxed"
+        "friendly"
     ],
-    "access": "Anyone (public)",
+    "access": "When not in use for teaching",
     "disabled_access": true,
     "opening_hours": {
         "monday": {
             "open": true,
-            "from": "8:30",
-            "to": "16:00"
+            "from": "0:00",
+            "to": "23:59"
         },
         "tuesday": {
             "open": true,
-            "from": "8:30",
-            "to": "16:00"
+            "from": "0:00",
+            "to": "23:59"
         },
         "wednesday": {
             "open": true,
-            "from": "8:30",
-            "to": "16:00"
+            "from": "0:00",
+            "to": "23:59"
         },
         "thursday": {
             "open": true,
-            "from": "8:30",
-            "to": "16:00"
+            "from": "0:00",
+            "to": "23:59"
         },
         "friday": {
             "open": true,
-            "from": "8:30",
-            "to": "16:00"
+            "from": "0:00",
+            "to": "23:59"
         },
         "saturday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "0:00",
+            "to": "23:59"
         },
         "sunday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "0:00",
+            "to": "23:59"
         }
     },
-    "slug": "costa-parkinson-court",
-    "floor": "Ground floor",
+    "slug": "eliot-ect1",
+    "floor": "No idea",
     "restriction": "",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=17525",
-    "imagealt": "An overhead, interior photograph of the Costa Parkinson Court serving area and seating with blurred images of two customers",
-    "url": "https://gfal.leeds.ac.uk/where-to-eat/cafes/parkinson/",
-    "campusmap_ref": "60",
-    "email_address": "gfal@leeds.ac.uk",
+    "imagealt": "Interior photograph of the pc suite",
     "work": [
-        "private",
-        "close",
-        "friends",
-        "group"
-    ],
-    "twitter_screen_name": "GreatFoodLeeds",
-    "space_type": "Café",
-    "building": "Parkinson Building",
-    "address": "University of Leeds, LS2 9JT",
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.5526256147622044,53.808126986172226]}",
-    "facebook_url": "https://www.facebook.com/greatfoodleeds",
-    "title": "Costa Parkinson Court",
+        "close"    ],
+    "space_type": "itcluster",
+    "building": "Eliot",
+    "address": "University of Kent, CT2 7NU",
+    "location": "{\"type\":\"Point\",\"coordinates\":[1.068553,51.296182]}",
+    "title": "PC Suite in Eliot",
     "tags": [],
-    "noise": "Animated discussion",
+    "noise": "backgroundchatter",
     "phone_number": "",
-    "restricted": false,
+    "restricted": "",
     "id": 6,
-    "image": "/assets/photos/Parkinson-Court-Cafe4.jpg",
-    "description": "Parkinson Court Café sits in one of the most iconic buildings at the University of Leeds. The café is open plan and  conveniently located for a break from working in the Brotherton Library. Serves a range of sandwiches and snacks throughout the day.",
+    "image": "/assets/photos/Edit-Room.jpg",
+    "description": "Situated on the ?????.",
     "published": true,
-    "url_text": "Visit the Costa Parkinson Court web site",
     "phone_text": ""
 }

@@ -1,91 +1,76 @@
 {
     "facilities": [
-        "food_drink",
-        "large_desks",
         "free_wifi",
         "laptops_allowed",
         "sockets",
+        "computers",
         "signal",
         "toilets",
-        "refreshments",
         "break",
         "bike_racks",
-        "gender_neutral_toilets",
         "wheelchair_accessible"
     ],
     "atmosphere": [
-        "relaxed",
-        "cosy",
-        "social",
-        "friendly"
+        "modern"
     ],
-    "access": "Anyone (public)",
+    "access": "When not in use for teaching",
     "disabled_access": true,
     "opening_hours": {
         "monday": {
             "open": true,
-            "from": "8:00",
-            "to": "18:30"
+            "from": "9:00",
+            "to": "17:00"
         },
         "tuesday": {
             "open": true,
-            "from": "8:00",
-            "to": "18:30"
+            "from": "9:00",
+            "to": "17:00"
         },
         "wednesday": {
             "open": true,
-            "from": "8:00",
-            "to": "18:30"
+            "from": "9:00",
+            "to": "17:00"
         },
         "thursday": {
             "open": true,
-            "from": "8:00",
-            "to": "18:30"
+            "from": "9:00",
+            "to": "17:00"
         },
         "friday": {
             "open": true,
-            "from": "8:00",
-            "to": "18:30"
+            "from": "9:00",
+            "to": "17:00"
         },
         "saturday": {
-            "true": false,
-            "from": "10:00",
-            "to": "14:00"
+            "open": false,
+            "from": "",
+            "to": ""
         },
         "sunday": {
-            "true": false,
-            "from": "10:00",
-            "to": "14:00"
+            "open": false,
+            "from": "",
+            "to": ""
         }
     },
-    "floor": "Ground floor and mezzanine",
+    "slug": "jennison-jcs2",
+    "floor": "Ground",
     "restriction": "",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=17536",
-    "url": "https://gfal.leeds.ac.uk/where-to-eat/refectory/",
-    "campusmap_ref": "29",
+    "imagealt": "Interior photograph of the pc suite",
     "work": [
-        "private",
-        "close",
-        "friends",
-        "group"
-    ],
-    "twitter_screen_name": "GreatFoodLeeds",
-    "space_type": "Café",
-    "building": "University precinct",
-    "address": "University of Leeds, LS2 9JT",
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.55657117,53.80685681]}",
-    "facebook_url": "https://www.facebook.com/greatfoodleeds",
-    "title": "Refectory",
+        "close"    ],
+    "space_type": "itcluster",
+    "building": "Jennison",
+    "address": "University of Kent, CT2 7NU",
+    "location": "{\"type\":\"Point\",\"coordinates\":[1.064345,51.298509]}",
+    "title": "PC Suite in Jennison",
     "tags": [],
-    "noise": "Animated discussion",
+    "noise": "backgroundchatter",
     "phone_number": "",
-    "restricted": false,
+    "restricted": "",
     "id": 7,
-    "description": "Located right at the heart of University campus, the contemporary Refectory venue offers a wide range of hot and cold food each day.",
-    "image": "/assets/photos/Refectory4.jpg",
-    "imagealt": "Overhead, interior photograph of the Refectory, full of customers, taken from the balcony above the main dining area",
-    "slug": "refectory",
+    "image": "/assets/photos/Edit-Room.jpg",
+    "description": "Situated on the ground floor.",
     "published": true,
-    "url_text": "Visit the Refectory  web site",
+    "what3words": "///takeover.offstage.panther.",
     "phone_text": ""
 }

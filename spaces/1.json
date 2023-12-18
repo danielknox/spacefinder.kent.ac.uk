@@ -6,10 +6,8 @@
         "free_wifi",
         "laptops_allowed",
         "signal",
-        "outdoor_seating",
         "toilets",
         "refreshments",
-        "computers",
         "sockets",
         "wheelchair_accessible",
         "bike_racks",
@@ -26,69 +24,64 @@
     "opening_hours": {
         "monday": {
             "open": true,
-            "from": "8:30",
-            "to": "15:00"
+            "from": "8:00",
+            "to": "23:00"
         },
         "tuesday": {
             "open": true,
-            "from": "8:30",
-            "to": "15:00"
+            "from": "8:00",
+            "to": "23:00"
         },
         "wednesday": {
             "open": true,
-            "from": "8:30",
-            "to": "15:00"
+            "from": "8:00",
+            "to": "23:00"
         },
         "thursday": {
             "open": true,
-            "from": "8:30",
-            "to": "15:00"
+            "from": "8:00",
+            "to": "23:00"
         },
         "friday": {
             "open": true,
-            "from": "8:30",
-            "to": "15:00"
+            "from": "8:00",
+            "to": "23:00"
         },
         "saturday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "9:00",
+            "to": "21:00"
         },
         "sunday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "9:00",
+            "to": "21:00"
         }
     },
-    "slug": "baines-wing-cafe",
+    "slug": "templeman-library-cafe",
     "floor": "Ground floor",
     "restriction": "",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=18467",
-    "imagealt": "Interior photograph of the Baines Wing Café showing students seated at a round table in front of the serving area and chiller cabinets",
-    "url": "https://gfal.leeds.ac.uk/where-to-eat/cafes/baineswing/",
-    "campusmap_ref": "58",
-    "email_address": "gfal@leeds.ac.uk",
+    "imagealt": "Interior photograph of the Café showing the serving area",
+    "url": "https://kentunion.co.uk/library-cafe",
     "work": [
         "close",
         "friends",
         "group"
     ],
-    "twitter_screen_name": "GreatFoodLeeds",
     "space_type": "Café",
     "building": "Templeman Library",
-    "address": "University of Leeds, LS2 9JT",
-    "location": "{\"type\":\"Point\",\"coordinates\":[1.069037,51.297586]}",
-    "facebook_url": "https://www.facebook.com/greatfoodleeds",
+    "address": "University of Kent, Library Rd, Canterbury CT2 7NU",
+    "location": "{\"type\":\"Point\",\"coordinates\":[1.068854,51.297528]}",
     "title": "Templeman Library Café",
     "tags": [],
-    "what3words": "///toned.duty.fats.",
+    "what3words": "///takeover.offstage.panther.",
     "noise": "Animated discussion",
     "phone_number": "",
     "restricted": false,
     "id": 1,
-    "image": "/assets/photos/Baines-Wing-Cafe.jpg",
+    "image": "/assets/photos/Library-Cafe.jpg",
     "description": "Situated in the Templeman Library.",
     "published": true,
-    "url_text": "Visit the Baines Wing Café web site",
+    "url_text": "Visit the Kent Union Café web site",
     "phone_text": ""
 }

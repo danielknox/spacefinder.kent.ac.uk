@@ -1,4 +1,4 @@
-This website is run by the University of Leeds. We want as many people as possible to be able to use this website. For example, that means you should be able to:
+This website is run by the University of Kent, utilising code developed by the University of Leeds. We want as many people as possible to be able to use this website. For example, that means you should be able to:
 
 * change colours, contrast levels and fonts
 * zoom in up to 300% without the text spilling off the screen
@@ -18,12 +18,11 @@ We know some parts of this website are not fully accessible:
 
 If you need information on this website in a different format like accessible PDF, large print, easy read, audio recording or braille, please contact IT Services:
 
-* Phone: <a href="tel:+441133433333" title="Call IT Services">0113 343 3333</a>
-* Web: <a target="external" href="https://it.leeds.ac.uk/it?id=contact_form">‘Contact us’ form for people who cannot log in</a> to the IT site or <a href="https://it.leeds.ac.uk/nav_to.do?uri=it?id=contact_form">choose to ‘Log an incident’ if you can log in</a>.
+* Web: <a target="external" href="digitalaccess@kent.ac.uk">Email us’</a>.
 
 ### Reporting accessibility problems with this website
 
-We’re always looking to improve the accessibility of this website. If you find any problems not listed on this page or think we’re not meeting accessibility requirements, <a target="external" href="https://library.leeds.ac.uk/contact">contact the University Library</a>.
+We’re always looking to improve the accessibility of this website. If you find any problems not listed on this page or think we’re not meeting accessibility requirements, <a target="external" href="https://www.kent.ac.uk/accessibility">contact Student Support and Wellbeing</a>.
 
 ### Enforcement procedure
 

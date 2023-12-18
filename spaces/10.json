@@ -1,92 +1,82 @@
 {
     "facilities": [
-        "food_drink",
         "daylight",
-        "views",
-        "large_desks",
         "free_wifi",
         "laptops_allowed",
         "sockets",
+        "computers",
         "signal",
-        "refreshments",
+        "toilets",
         "break",
         "bike_racks",
-        "gender_neutral_toilets",
         "wheelchair_accessible"
     ],
     "atmosphere": [
+        "relaxed",
         "modern",
-        "cosy",
         "social",
         "friendly"
     ],
-    "access": "Anyone (public)",
+    "access": "All Students",
     "disabled_access": true,
     "opening_hours": {
         "monday": {
             "open": true,
-            "from": "8:30",
-            "to": "17:00"
+            "from": "0:00",
+            "to": "23:59"
         },
         "tuesday": {
             "open": true,
-            "from": "8:30",
-            "to": "17:00"
+            "from": "0:00",
+            "to": "23:59"
         },
         "wednesday": {
             "open": true,
-            "from": "8:30",
-            "to": "17:00"
+            "from": "0:00",
+            "to": "23:59"
         },
         "thursday": {
             "open": true,
-            "from": "8:30",
-            "to": "17:00"
+            "from": "0:00",
+            "to": "23:59"
         },
         "friday": {
             "open": true,
-            "from": "8:30",
-            "to": "17:00"
+            "from": "0:00",
+            "to": "23:59"
         },
         "saturday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "0:00",
+            "to": "23:59"
         },
         "sunday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "0:00",
+            "to": "23:59"
         }
     },
-    "slug": "1915",
-    "floor": "Ground floor",
-    "restriction": "",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=18482",
-    "imagealt": "Interior photograph of the 1915 Café showing high stool seating, normal seating and part of the service counter",
-    "url": "https://gfal.leeds.ac.uk/where-to-eat/cafes/1915/",
-    "campusmap_ref": "53",
+    "slug": "nickle-court-studyhub",
+    "floor": "Ground",
+    "restriction": "Kent One Card",
+    "imagealt": "Interior photograph of the study hub",
     "work": [
-        "private",
         "close",
         "friends",
         "group"
     ],
-    "twitter_screen_name": "GreatFoodLeeds",
-    "space_type": "Café",
-    "building": "Sir William Henry Bragg Building",
-    "address": "University of Leeds, LS2 9JT",
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.5543264,53.8091049]}",
-    "facebook_url": "https://www.facebook.com/greatfoodleeds",
-    "title": "1915",
+    "space_type": "studyhub",
+    "building": "Nickle Court",
+    "address": "University of Kent, CT2 7NU",
+    "location": "{\"type\":\"Point\",\"coordinates\":[1.055364,51.297707]}",
+    "title": "Study Hub by Nickle Court",
     "tags": [],
-    "noise": "Background chatter",
+    "noise": "Animated discussion",
     "phone_number": "",
-    "restricted": false,
+    "restricted": "Kent One Card",
     "id": 10,
-    "image": "/assets/photos/1915.jpg",
-    "description": "1915 is based in the Sir William Henry Bragg Building on Woodhouse Lane, its relaxed and informal menu has been carefully created to offer a mix of both classic and on-trend options.",
+    "image": "/assets/photos/Edit-Room.jpg",
+    "description": "Situated on the Ground Floor",
     "published": true,
-    "url_text": "Visit the 1915 web site",
     "phone_text": ""
 }

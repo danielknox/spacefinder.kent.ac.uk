@@ -1,20 +1,20 @@
 {
     "id": 2,
-    "location": "{\"type\":\"Point\",\"coordinates\":[-1.5564749502369677,53.81052313551629]}",
+    "location": "{\"type\":\"Point\",\"coordinates\":[1.069874,51.297310]}",
     "work": [
+        "private",
         "close",
         "friends",
         "group"
     ],
     "atmosphere": [
-        "relaxed",
+        "Disciplined",
         "modern",
-        "cosy",
-        "social",
-        "friendly"
+        "cosy"
     ],
     "facilities": [
         "food_drink",
+        "daylight",
         "views",
         "large_desks",
         "free_wifi",
@@ -22,71 +22,65 @@
         "sockets",
         "signal",
         "toilets",
-        "refreshments",
-        "break",
         "bike_racks",
-        "gender_neutral_toilets",
+        "computers",
+        "individual_study_space",
         "wheelchair_accessible"
     ],
-    "title": "Fuse Cafe in Chemical and Process Engineering",
-    "description": "Fuse at The School of Chemical and Process Engineering is a hidden gem located in the Engineering buildings. It is a quiet café with plenty of space, a perfect spot to refresh yourself.",
-    "access": "Anyone (public)",
-    "space_type": "Café",
-    "address": "University of Leeds, LS2 9JT",
-    "building": "Chemical and Process Engineering Building",
-    "floor": "Ground floor and mezzanine",
-    "restricted": false,
-    "restriction": "",
+    "title": "Senate Postgraduate Study Hub",
+    "description": "Study Hub for Postgraduates with PCs, Private Boothes and desk space. Food heating area nearby and soft seating",
+    "access": "Postgraduate",
+    "space_type": "studyhub",
+    "address": "University of Kent, CT2 7NU",
+    "building": "Senate",
+    "floor": "First Floor",
+    "restricted": true,
+    "restriction": "Postgraduate Only; KentOne card access",
     "disabled_access": true,
-    "url": "https://gfal.leeds.ac.uk/where-to-eat/cafes/fuse/",
     "phone_number": "",
-    "twitter_screen_name": "GreatFoodLeeds",
-    "facebook_url": "https://www.facebook.com/greatfoodleeds",
-    "campusmap_url": "https://www.leeds.ac.uk/campusmap?location=18474",
-    "campusmap_ref": "48",
-    "noise": "Background chatter",
+    "noise": "Whispers",
     "tags": [],
     "opening_hours": {
         "monday": {
             "open": true,
-            "from": "8:30",
-            "to": "15:00"
+            "from": "0:00",
+            "to": "23:59"
         },
         "tuesday": {
             "open": true,
-            "from": "8:30",
-            "to": "15:00"
+            "from": "0:00",
+            "to": "23:59"
         },
         "wednesday": {
             "open": true,
-            "from": "8:30",
-            "to": "15:00"
+            "from": "0:00",
+            "to": "23:59"
         },
         "thursday": {
             "open": true,
-            "from": "8:30",
-            "to": "15:00"
+            "from": "0:00",
+            "to": "23:59"
         },
         "friday": {
             "open": true,
-            "from": "8:30",
-            "to": "15:00"
+            "from": "0:00",
+            "to": "23:59"
         },
         "saturday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "0:00",
+            "to": "23:59"
         },
         "sunday": {
-            "open": false,
-            "from": "",
-            "to": ""
+            "open": true,
+            "from": "0:00",
+            "to": "23:59"
         }
     },
-    "image": "/assets/photos/Fuse-Cafe.jpg",
-    "imagealt": "Interior photograph of the Fuse Cafe showing the serving area, chiller cabinets and part of the seating area",
-    "slug": "fuse-cafe-in-chemical-and-process-engineering",
+    "image": "/assets/photos/Senate-StudyHub.jpg",
+    "imagealt": "Interior photograph of the study hub",
+    "slug": "senate-postgraduate-study-hub",
     "published": true,
-    "url_text": "Visit the Fuse Cafe in Chemical and Process Engineering web site",
+    "what3words": "///nightlife.prove.dining.",
     "phone_text": ""
 }
