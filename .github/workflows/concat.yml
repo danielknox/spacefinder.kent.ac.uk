@@ -14,8 +14,8 @@ jobs:
         run: | 
           cd main
           npm run concat
-          git config --global user.name 'peteredwards'
-          git config --global user.email 'p.l.edwards@leeds.ac.uk'
+          git config --global user.name 'danielknox'
+          git config --global user.email 'd.knox@kent.ac.uk'
           git add --all
           git diff-index --quiet HEAD || (git commit -am "Master space data file generated" && git push)
 
