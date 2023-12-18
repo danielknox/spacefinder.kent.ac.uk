@@ -69,7 +69,7 @@
     "space_type": "studyhub",
     "building": "Turing",
     "address": "University of Kent, CT2 7NU",
-    "location": "{\"type\":\"Point\",\"coordinates\":[1.063186,51.294112}",
+    "location": "{\"type\":\"Point\",\"coordinates\":[1.063186,51.294112]}",
     "title": "Study Hub in Turing",
     "tags": [],
     "noise": "backgroundchatter",
