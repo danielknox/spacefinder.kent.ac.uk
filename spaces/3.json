@@ -6,11 +6,9 @@
         "sockets",
         "computers",
         "signal",
-        "toilets",
-        "refreshments",
-        "break",
-        "bike_racks",
-        "wheelchair_accessible"
+        "printers_copiers",
+        "soft_furniture",
+        "bike_racks"
     ],
     "atmosphere": [
         "relaxed",
@@ -58,7 +56,7 @@
         }
     },
     "slug": "darwin-pc-hub-2",
-    "floor": "No idea",
+    "floor": "Second",
     "restriction": "24/7 for Residents only",
     "imagealt": "Interior photograph of the study hub",
     "work": [
@@ -70,14 +68,15 @@
     "building": "Darwin",
     "address": "University of Kent, CT2 7NU",
     "location": "{\"type\":\"Point\",\"coordinates\":[1.072847,51.298807]}",
-    "title": "PC Room 2 in Darwin",
+    "title": "Bob Eager Suite in Darwin",
     "tags": [],
     "noise": "backgroundchatter",
     "phone_number": "",
     "restricted": "",
     "id": 3,
+    "what3words": "///appealed.attitudes.renders.",
     "image": "/assets/photos/Edit-Room.jpg",
-    "description": "Situated on the ?????.",
+    "description": "Situated on the second floor.",
     "published": true,
     "phone_text": ""
 }
