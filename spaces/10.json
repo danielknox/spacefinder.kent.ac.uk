@@ -7,13 +7,16 @@
         "computers",
         "signal",
         "toilets",
-        "break",
+        "gender_neutral_toilets",
+        "refreshments",
+        "printers_copiers",
+        "soft_furniture",
+        "large_desks",
         "bike_racks",
         "wheelchair_accessible"
     ],
     "atmosphere": [
         "relaxed",
-        "modern",
         "social",
         "friendly"
     ],
@@ -59,7 +62,7 @@
     "slug": "nickle-court-studyhub",
     "floor": "Ground Floor",
     "restriction": "Kent One Card",
-    "imagealt": "Interior photograph of the study hub",
+    "imagealt": "Interior photograph of the study hub showing soft seating, desks around window and computers.",
     "work": [
         "close",
         "friends",
@@ -71,12 +74,13 @@
     "location": "{\"type\":\"Point\",\"coordinates\":[1.055364,51.297707]}",
     "title": "Study Hub by Nickle Court",
     "tags": [],
-    "noise": "Animated discussion",
+    "what3words": "///quiet.returns.regrowth.",
+    "noise": "backgroundchatter",
     "phone_number": "",
     "restricted": "Kent One Card",
     "id": 10,
-    "image": "/assets/photos/Edit-Room.jpg",
-    "description": "Situated on the Ground Floor",
+    "image": "/assets/photos/NickleCourtStudyHub.jpg",
+    "description": "Situated on the Ground Floor. Vending machines located internally.",
     "published": true,
     "phone_text": ""
 }
