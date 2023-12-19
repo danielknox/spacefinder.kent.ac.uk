@@ -10,7 +10,10 @@
         "refreshments",
         "break",
         "bike_racks",
-        "wheelchair_accessible"
+        "wheelchair_accessible",
+        "printers_copiers",
+        "views"
+        "soft_furniture"
     ],
     "atmosphere": [
         "relaxed",
@@ -67,9 +70,9 @@
         "group"
     ],
     "space_type": "studyhub",
-    "building": "Turing",
+    "building": "Turing Hub",
     "address": "University of Kent, CT2 7NU",
-    "location": "{\"type\":\"Point\",\"coordinates\":[1.063186,51.294112]}",
+    "location": "{\"type\":\"Point\",\"coordinates\":[1.063212,51.294099]}",
     "title": "Study Hub in Turing",
     "tags": [],
     "noise": "backgroundchatter",
@@ -79,5 +82,6 @@
     "image": "/assets/photos/Edit-Room.jpg",
     "description": "Situated on the first floor",
     "published": true,
+    "what3words": "///tortoises.umpires.stickler.",
     "phone_text": ""
 }
