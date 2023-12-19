@@ -59,7 +59,7 @@
     "slug": "eliot-study-hub",
     "floor": "Four",
     "restriction": "24/7 for Residents only",
-    "imagealt": "Interior photograph of the study hub",
+    "imagealt": "Interior photograph showing boothes with screens, heigh adjustable desk and computers on desks.",
     "work": [
         "close",
         "friends",
@@ -76,7 +76,7 @@
     "phone_number": "",
     "restricted": "",
     "id": 5,
-    "image": "/assets/photos/Edit-Room.jpg",
+    "image": "/assets/photos/EliotStudyHub.jpg",
     "description": "Situated on the fourth floor"
     "published": true,
     "phone_text": ""
