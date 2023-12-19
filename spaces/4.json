@@ -54,7 +54,7 @@
     "slug": "darwin-pc-hub-1",
     "floor": "First",
     "restriction": "24/7 for Residents only",
-    "imagealt": "Interior photograph of the study hub",
+    "imagealt": "Interior photograph of the study hub showing desk with two computers and a red sofa",
     "work": [
         "close",
         "friends"
@@ -70,7 +70,7 @@
     "phone_number": "",
     "restricted": "",
     "id": 4,
-    "image": "/assets/photos/Edit-Room.jpg",
+    "image": "/assets/photos/DarwinStudyHub1.jpg",
     "description": "Situated on the first floor.",
     "published": true,
     "phone_text": ""
