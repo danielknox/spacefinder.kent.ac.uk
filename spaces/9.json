@@ -1,6 +1,8 @@
 {
     "facilities": [
-        "daylight",
+        "printers_copiers",
+        "adjustable_desk",
+        "collaboration_screen",
         "free_wifi",
         "laptops_allowed",
         "sockets",
@@ -12,7 +14,10 @@
         "wheelchair_accessible"
     ],
     "atmosphere": [
-        "cosy"
+        "cosy",
+        "modern",
+        "friendly",
+        "relaxed"
     ],
     "access": "All Students (24/7 Residents)",
     "disabled_access": true,
@@ -54,7 +59,7 @@
         }
     },
     "slug": "keynes-studyhub",
-    "floor": "First",
+    "floor": "Ground",
     "restriction": "24/7 for Residents only",
     "imagealt": "Interior photograph of the study hub",
     "work": [
@@ -66,14 +71,15 @@
     "building": "Keynes",
     "address": "University of Kent, CT2 7NU",
     "location": "{\"type\":\"Point\",\"coordinates\":[1.065597,51.295431]}",
-    "title": "Study Hub in Keynes",
+    "title": "NG.04 in Keynes",
     "tags": [],
     "noise": "backgroundchatter",
     "phone_number": "",
     "restricted": "",
     "id": 9,
     "image": "/assets/photos/Edit-Room.jpg",
-    "description": "Situated on the ?????.",
+    "description": "Situated on the ground floor.",
     "published": true,
+    "what3words": "///repeated.toasters.ballooned.",
     "phone_text": ""
 }
