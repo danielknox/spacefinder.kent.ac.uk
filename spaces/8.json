@@ -57,7 +57,7 @@
     "slug": "keynes-ksa1",
     "floor": "First Floor",
     "restriction": "",
-    "imagealt": "Interior photograph of the pc suite",
+    "imagealt": "Interior photograph of suite showing rows of computers and two round tables with chairs.",
     "work": [
         "close"    ],
     "space_type": "itcluster",
@@ -70,7 +70,7 @@
     "phone_number": "",
     "restricted": "",
     "id": 8,
-    "image": "/assets/photos/KSA1.jpg",
+    "image": "/assets/photos/KeynesKsa1.jpg",
     "description": "Situated on the first floor.",
     "published": true,
     "what3words": "///auctioned.crunches.weds.",
