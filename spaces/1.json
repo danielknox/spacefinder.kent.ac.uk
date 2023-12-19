@@ -5,13 +5,16 @@
         "views",
         "free_wifi",
         "laptops_allowed",
+        "soft_furniture",
+        "laptops",
+        "computers",
+        "printers_copiers",
         "signal",
         "toilets",
         "refreshments",
         "sockets",
         "wheelchair_accessible",
         "bike_racks",
-        "gender_neutral_toilets"
     ],
     "atmosphere": [
         "relaxed",
