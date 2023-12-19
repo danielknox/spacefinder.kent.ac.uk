@@ -64,7 +64,7 @@
     "slug": "templeman-library-cafe",
     "floor": "Ground floor",
     "restriction": "",
-    "imagealt": "Interior photograph of the Café showing the serving area",
+    "imagealt": "Interior photograph of the Café showing the serving area and surrounding soft seating",
     "url": "https://kentunion.co.uk/library-cafe",
     "work": [
         "close",
@@ -82,7 +82,7 @@
     "phone_number": "",
     "restricted": false,
     "id": 1,
-    "image": "/assets/photos/Library-Cafe.jpg",
+    "image": "/assets/photos/LibraryCafe.jpg",
     "description": "Situated in the Templeman Library.",
     "published": true,
     "url_text": "Visit the Kent Union Café web site",
