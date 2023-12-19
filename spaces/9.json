@@ -62,7 +62,7 @@
     "slug": "keynes-studyhub",
     "floor": "Ground",
     "restriction": "24/7 for Residents only",
-    "imagealt": "Interior photograph of the study hub",
+    "imagealt": "Interior photograph showing boothes with wallmounted monitors and individual computers on desks.",
     "work": [
         "close",
         "friends",
@@ -78,7 +78,7 @@
     "phone_number": "",
     "restricted": "",
     "id": 9,
-    "image": "/assets/photos/Edit-Room.jpg",
+    "image": "/assets/photos/KeynesNg04.jpg",
     "description": "Situated on the ground floor.",
     "published": true,
     "what3words": "///repeated.toasters.ballooned.",
