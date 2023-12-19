@@ -7,16 +7,13 @@
         "computers",
         "signal",
         "toilets",
-        "refreshments",
-        "break",
-        "bike_racks",
+        "printers_copiers",
+        "whiteboards",
+        "projector",
         "wheelchair_accessible"
     ],
     "atmosphere": [
-        "relaxed",
-        "modern",
-        "social",
-        "friendly"
+        "disciplined"
     ],
     "access": "When not in use for teaching",
     "disabled_access": true,
@@ -58,7 +55,7 @@
         }
     },
     "slug": "eliot-ect1",
-    "floor": "No idea",
+    "floor": "Four",
     "restriction": "",
     "imagealt": "Interior photograph of the pc suite",
     "work": [
@@ -74,7 +71,8 @@
     "restricted": "",
     "id": 6,
     "image": "/assets/photos/Edit-Room.jpg",
-    "description": "Situated on the ?????.",
+    "description": "Situated on the fourth floor."
     "published": true,
+    "what3words": "///storeroom.cried.shields.",
     "phone_text": ""
 }
