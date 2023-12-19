@@ -56,7 +56,7 @@
     "slug": "tyler-court-study-hub",
     "floor": "Ground",
     "restriction": "24/7 for Residents only",
-    "imagealt": "Interior photograph of the study hub",
+    "imagealt": "Interior photograph showing a couple of computers on desk, large empty benches and a small area of soft seating.",
     "work": [
         "close",
         "friends"
@@ -72,7 +72,7 @@
     "restricted": "",
     "what3words": "///faded.ferried.corkscrew.",
     "id": 12,
-    "image": "/assets/photos/Edit-Room.jpg",
+    "image": "/assets/photos/TylerStudyHub.jpg",
     "description": "Situated on ground floor in Tyler Court Block A",
     "published": true,
     "phone_text": ""
