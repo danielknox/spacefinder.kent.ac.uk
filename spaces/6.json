@@ -56,7 +56,7 @@
     "slug": "eliot-ect1",
     "floor": "Four",
     "restriction": "",
-    "imagealt": "Interior photograph of the pc suite",
+    "imagealt": "Interior photograph of pc suite showing rows of computers and projector in background.",
     "work": [
         "close"    ],
     "space_type": "itcluster",
@@ -69,7 +69,7 @@
     "phone_number": "",
     "restricted": "",
     "id": 6,
-    "image": "/assets/photos/Edit-Room.jpg",
+    "image": "/assets/photos/EliotEct1.jpg",
     "description": "Situated on the fourth floor."
     "published": true,
     "what3words": "///storeroom.cried.shields.",
