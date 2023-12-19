@@ -6,17 +6,11 @@
         "sockets",
         "computers",
         "signal",
-        "toilets",
-        "refreshments",
-        "break",
+        "soft_furniture",
         "bike_racks",
-        "wheelchair_accessible"
     ],
     "atmosphere": [
-        "relaxed",
-        "modern",
-        "social",
-        "friendly"
+        "relaxed"
     ],
     "access": "All Students (24/7 Residents)",
     "disabled_access": true,
@@ -58,26 +52,26 @@
         }
     },
     "slug": "darwin-pc-hub-1",
-    "floor": "No idea",
+    "floor": "First",
     "restriction": "24/7 for Residents only",
     "imagealt": "Interior photograph of the study hub",
     "work": [
         "close",
-        "friends",
-        "group"
+        "friends"
     ],
     "space_type": "studyhub",
     "building": "Darwin",
     "address": "University of Kent, CT2 7NU",
     "location": "{\"type\":\"Point\",\"coordinates\":[1.072847,51.298807]}",
-    "title": "PC Room 1 in Darwin",
+    "title": "Study Hub 1 in Darwin",
     "tags": [],
+    "what3words": "///scorpions.drift.relief.",
     "noise": "backgroundchatter",
     "phone_number": "",
     "restricted": "",
     "id": 4,
     "image": "/assets/photos/Edit-Room.jpg",
-    "description": "Situated on the ?????.",
+    "description": "Situated on the first floor.",
     "published": true,
     "phone_text": ""
 }
