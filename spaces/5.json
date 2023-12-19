@@ -1,15 +1,14 @@
 {
     "facilities": [
-        "daylight",
         "free_wifi",
         "laptops_allowed",
         "sockets",
         "computers",
+        "soft_furniture",
+        "printers_copiers",
+        "collaboration_screen",
         "signal",
         "toilets",
-        "refreshments",
-        "break",
-        "bike_racks",
         "wheelchair_accessible"
     ],
     "atmosphere": [
@@ -58,7 +57,7 @@
         }
     },
     "slug": "eliot-study-hub",
-    "floor": "No idea",
+    "floor": "Four",
     "restriction": "24/7 for Residents only",
     "imagealt": "Interior photograph of the study hub",
     "work": [
@@ -70,14 +69,15 @@
     "building": "Eliot",
     "address": "University of Kent, CT2 7NU",
     "location": "{\"type\":\"Point\",\"coordinates\":[1.068553,51.296182]}",
-    "title": "Study Hub in Eliot",
+    "title": "Student PC Zone in Eliot",
     "tags": [],
     "noise": "backgroundchatter",
+    "what3words": "///towns.chariots.replenish.",
     "phone_number": "",
     "restricted": "",
     "id": 5,
     "image": "/assets/photos/Edit-Room.jpg",
-    "description": "Situated on the ?????.",
+    "description": "Situated on the fourth floor"
     "published": true,
     "phone_text": ""
 }
