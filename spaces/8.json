@@ -1,10 +1,12 @@
 {
     "facilities": [
         "free_wifi",
+        "printers_copiers",
+        "projector",
+        "whiteboard",
         "laptops_allowed",
         "sockets",
         "computers",
-        "signal",
         "toilets",
         "break",
         "bike_racks",
@@ -62,7 +64,7 @@
     "building": "Keynes",
     "address": "University of Kent, CT2 7NU",
     "location": "{\"type\":\"Point\",\"coordinates\":[1.065597,51.295431]}",
-    "title": "PC Suite in Keynes",
+    "title": "KSA1 in Keynes",
     "tags": [],
     "noise": "backgroundchatter",
     "phone_number": "",
@@ -71,6 +73,6 @@
     "image": "/assets/photos/KSA1.jpg",
     "description": "Situated on the first floor.",
     "published": true,
-    "what3words": "///takeover.offstage.panther.",
+    "what3words": "///auctioned.crunches.weds.",
     "phone_text": ""
 }
