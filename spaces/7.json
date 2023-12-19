@@ -8,10 +8,12 @@
         "toilets",
         "break",
         "bike_racks",
+        "printers_copiers",
+        "projector",
         "wheelchair_accessible"
     ],
     "atmosphere": [
-        "modern"
+        "disciplined"
     ],
     "access": "When not in use for teaching",
     "disabled_access": true,
@@ -55,20 +57,20 @@
     "slug": "jennison-jcs2",
     "floor": "Ground Floor",
     "restriction": "",
-    "imagealt": "Interior photograph of the pc suite",
+    "imagealt": "Interior photograph of the pc suite showing rows of desks",
     "work": [
         "close"    ],
     "space_type": "itcluster",
     "building": "Jennison",
     "address": "University of Kent, CT2 7NU",
     "location": "{\"type\":\"Point\",\"coordinates\":[1.064345,51.298509]}",
-    "title": "PC Suite in Jennison",
+    "title": "JCS2 in Jennison",
     "tags": [],
-    "noise": "backgroundchatter",
+    "noise": "whispers",
     "phone_number": "",
     "restricted": "",
     "id": 7,
-    "image": "/assets/photos/Edit-Room.jpg",
+    "image": "/assets/photos/Jcs2Jennison.jpg",
     "description": "Situated on the ground floor.",
     "published": true,
     "what3words": "///takeover.offstage.panther.",
