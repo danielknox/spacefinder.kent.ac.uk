@@ -5,18 +5,13 @@
         "laptops_allowed",
         "sockets",
         "computers",
+        "soft_furniture",
         "signal",
-        "toilets",
-        "refreshments",
-        "break",
         "bike_racks",
         "wheelchair_accessible"
     ],
     "atmosphere": [
-        "relaxed",
-        "modern",
-        "social",
-        "friendly"
+        "relaxed"
     ],
     "access": "All Students (24/7 Residents)",
     "disabled_access": true,
@@ -58,16 +53,15 @@
         }
     },
     "slug": "tyler-court-study-hub",
-    "floor": "No idea",
+    "floor": "Ground",
     "restriction": "24/7 for Residents only",
     "imagealt": "Interior photograph of the study hub",
     "work": [
         "close",
-        "friends",
-        "group"
+        "friends"
     ],
     "space_type": "studyhub",
-    "building": "Tyler Court",
+    "building": "Tyler Court A",
     "address": "University of Kent, CT2 7NU",
     "location": "{\"type\":\"Point\",\"coordinates\":[1.072521,51.297510]}",
     "title": "Study Hub in Tyler Court",
@@ -77,7 +71,7 @@
     "restricted": "",
     "id": 12,
     "image": "/assets/photos/Edit-Room.jpg",
-    "description": "Situated in Tyler Court Block A",
+    "description": "Situated on ground floor in Tyler Court Block A",
     "published": true,
     "phone_text": ""
 }
