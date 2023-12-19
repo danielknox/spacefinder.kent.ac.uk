@@ -3,12 +3,10 @@
     "location": "{\"type\":\"Point\",\"coordinates\":[1.069874,51.297310]}",
     "work": [
         "private",
-        "close",
-        "friends",
-        "group"
+        "close"
     ],
     "atmosphere": [
-        "Disciplined",
+        "disciplined",
         "modern",
         "cosy"
     ],
@@ -25,10 +23,12 @@
         "bike_racks",
         "computers",
         "individual_study_space",
-        "wheelchair_accessible"
+        "wheelchair_accessible",
+        "printers_copiers",
+        "soft_furniture"
     ],
-    "title": "Senate Postgraduate Study Hub",
-    "description": "Study Hub for Postgraduates with PCs, Private Boothes and desk space. Food heating area nearby and soft seating",
+    "title": "Postgraduate Study Hub in Senate",
+    "description": "Study Hub for Postgraduates with PCs, private boothes, desk space and soft seating. Lockers and food-heating area nearby.",
     "access": "Postgraduate",
     "space_type": "studyhub",
     "address": "University of Kent, CT2 7NU",
@@ -38,7 +38,7 @@
     "restriction": "Postgraduate Only; KentOne card access",
     "disabled_access": true,
     "phone_number": "",
-    "noise": "Whispers",
+    "noise": "whispers",
     "tags": [],
     "opening_hours": {
         "monday": {
