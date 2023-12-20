@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:uol-library/spacefinder.leeds.ac.uk.git"
+    "url": "git@github.com:danielknox/spacefinder.kent.ac.uk.git"
   },
   "keywords": [],
-  "author": "Peter Edwards <p.l.edwards@leeds.ac.uk>",
+  "author": "Daniel Knox <d.knox@kent.ac.uk>",
   "license": "Apache-2.0",
   "dependencies": {
     "openid-client": "^5.6.1"
