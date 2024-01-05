@@ -10,11 +10,9 @@
         "soft_furniture",
         "bike_racks"
     ],
-    "atmosphere": [
-        "relaxed",
-        "modern",
-        "social",
-        "friendly"
+    "spacefocus": [
+        "together",
+        "multipurpose"
     ],
     "access": "All Students (24/7 Residents)",
     "disabled_access": true,

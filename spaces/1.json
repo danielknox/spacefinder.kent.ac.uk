@@ -16,11 +16,10 @@
         "wheelchair_accessible",
         "bike_racks"
     ],
-    "atmosphere": [
-        "relaxed",
-        "social",
-        "friendly",
-        "modern"
+    "spacefocus": [
+        "together",
+        "cosy",
+        "scenic"
     ],
     "access": "Anyone (public)",
     "disabled_access": true,

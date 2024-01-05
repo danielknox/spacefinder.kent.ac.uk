@@ -11,11 +11,10 @@
         "signal",
         "wheelchair_accessible"
     ],
-    "atmosphere": [
-        "relaxed",
-        "modern",
-        "social",
-        "friendly"
+    "spacefocus": [
+        "together",
+        "multipurpose",
+        "cosy"
     ],
     "access": "All Students (24/7 Residents)",
     "disabled_access": true,

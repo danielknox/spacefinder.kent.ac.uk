@@ -145,8 +145,8 @@ function getClassList( space ) {
     if ( space.facilities.length ){
         classList += 'facilities_' + space.facilities.join( ' facilities_' ) + ' ';
     }
-    if ( space.atmosphere.length ){
-        classList += 'atmosphere_' + space.atmosphere.join( ' atmosphere_' ) + ' ';
+    if ( space.spacefocus.length ){
+        classList += 'spacefocus_' + space.spacefocus.join( ' spacefocus_' ) + ' ';
     }
     if ( space.noise ) {
         classList += 'noise_' + space.noise.replace( /\W/g, '' ).toLowerCase();

@@ -12,8 +12,9 @@
         "bike_racks",
         "wheelchair_accessible"
     ],
-    "atmosphere": [
-        "cosy"
+    "spacefocus": [
+        "together",
+        "multipurpose"
     ],
     "access": "When not in use for teaching. All Students (24/7 Residents)",
     "disabled_access": true,

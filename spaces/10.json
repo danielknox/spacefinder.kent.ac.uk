@@ -15,10 +15,10 @@
         "bike_racks",
         "wheelchair_accessible"
     ],
-    "atmosphere": [
-        "relaxed",
-        "social",
-        "friendly"
+    "spacefocus": [
+        "multipurpose",
+        "together",
+        "cosy"
     ],
     "access": "All Students",
     "disabled_access": true,

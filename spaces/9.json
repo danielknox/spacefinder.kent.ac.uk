@@ -14,11 +14,9 @@
         "bike_racks",
         "wheelchair_accessible"
     ],
-    "atmosphere": [
-        "cosy",
-        "modern",
-        "friendly",
-        "relaxed"
+    "spacefocus": [
+        "together",
+        "multipurpose"
     ],
     "access": "All Students (24/7 Residents)",
     "disabled_access": true,

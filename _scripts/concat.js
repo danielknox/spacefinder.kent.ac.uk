@@ -24,6 +24,3 @@ spacefiles.forEach( filename => {
     }
 });
 fs.writeFileSync( path.resolve( __dirname, '../spaces.json' ), JSON.stringify( allSpaces ) );
-
-
-

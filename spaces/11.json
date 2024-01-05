@@ -15,11 +15,10 @@
         "views",
         "soft_furniture"
     ],
-    "atmosphere": [
-        "relaxed",
-        "modern",
-        "social",
-        "friendly"
+    "spacefocus": [
+        "together",
+        "scenic",
+        "multipurpose"
     ],
     "access": "All Students (24/7 Residents)",
     "disabled_access": true,
